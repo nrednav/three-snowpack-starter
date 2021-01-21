@@ -1,0 +1,18 @@
+{
+  "name": "three-snowpack-starter",
+  "version": "1.0.0",
+  "description": "Quick boilerplate for Three.js projects using Snowpack as the build tool.",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "nrednav (https://github.com/nrednav)",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.124.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
+}
