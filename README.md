@@ -2,6 +2,10 @@
 
 Quick boilerplate for Three.js projects using Snowpack as the build tool.
 
+## Demo
+
+- https://three-snowpack-starter.vercel.app/
+
 ## Installation
 
 - Download or clone this repository
